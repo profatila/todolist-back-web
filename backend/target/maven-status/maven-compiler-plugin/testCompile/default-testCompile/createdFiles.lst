@@ -1,0 +1,4 @@
+com\example\todo\integration\TaskRepositoryIntegrationTest.class
+com\example\todo\mapper\TaskMapperTest.class
+com\example\todo\controller\TaskControllerTest.class
+com\example\todo\service\TaskServiceTest.class
